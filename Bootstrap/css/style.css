@@ -1,0 +1,14 @@
+.bg-teal , .btn-teal{
+    background-color: #236666 !important;
+}
+.text-teal{
+    color:  #236666 !important;
+}
+.carousel .carousel-indicators li{
+    width: 30px;
+    height: 5px;
+    border-radius: 0%;
+}
+.carousel-caption{
+    bottom: 200px;
+}
